@@ -1,0 +1,10 @@
+C:\Programming,gotove App\TicTacToeFinal\TicTacToeFinal\bin\Debug\TicTacToeFinal.exe.config
+C:\Programming,gotove App\TicTacToeFinal\TicTacToeFinal\bin\Debug\TicTacToeFinal.exe
+C:\Programming,gotove App\TicTacToeFinal\TicTacToeFinal\bin\Debug\TicTacToeFinal.pdb
+C:\Programming,gotove App\TicTacToeFinal\TicTacToeFinal\bin\Debug\MaterialSkin.dll
+C:\Programming,gotove App\TicTacToeFinal\TicTacToeFinal\obj\Debug\TicTacToeFinal.csprojResolveAssemblyReference.cache
+C:\Programming,gotove App\TicTacToeFinal\TicTacToeFinal\obj\Debug\TicTacToeFinal.Form1.resources
+C:\Programming,gotove App\TicTacToeFinal\TicTacToeFinal\obj\Debug\TicTacToeFinal.Properties.Resources.resources
+C:\Programming,gotove App\TicTacToeFinal\TicTacToeFinal\obj\Debug\TicTacToeFinal.csproj.GenerateResource.Cache
+C:\Programming,gotove App\TicTacToeFinal\TicTacToeFinal\obj\Debug\TicTacToeFinal.exe
+C:\Programming,gotove App\TicTacToeFinal\TicTacToeFinal\obj\Debug\TicTacToeFinal.pdb
